@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------------------------------
+By Nick 
+
+
+Used Libraries:
+Pygame
+Random
+
+Created using an tutorial (In Italian):
+https://www.youtube.com/watch?v=POelpwwqxek&list=PLI8CnIMh7oBFN3cx8k_GsBYIRovhKi2gz&pp=iAQB
+
+Thanks For Installing!
+-------------------------------------------------------------------------------------------------------
